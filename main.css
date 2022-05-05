@@ -92,4 +92,11 @@ header nav a:hover{
     margin-right: 10px;
 }
 
+.container{
+    margin-left: 20px;
+}
+
+.filme-principal .container{
+    width: 70%;
+}
 
